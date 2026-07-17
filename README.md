@@ -1,5 +1,6 @@
 # S.Bank-Project
 AI-Powered Financial Document Processing Prototype
+
 <img width="1387" height="795" alt="image" src="https://github.com/user-attachments/assets/a0ba76c0-3bab-466f-a4e6-17b245c37390" />
 
 I built this project to show how technology can automate a slow, manual process in corporate banking: financial "spreading" (taking data from PDFs and turning it into structured financial statements).
